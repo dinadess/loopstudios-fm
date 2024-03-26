@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Loopstudios on FM](https://www.frontendmentor.io/solutions/loopstudios-landing-page-built-with-html-and-css-4JXv1HoW2W)
 - Live Site URL: [Loopstudios landing page](https://dinadess.github.io/loopstudios-fm/)
 
 ## My process
