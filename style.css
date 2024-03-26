@@ -137,7 +137,7 @@ a[href] {
 
 .header #menu {
 	appearance: none;
-	background-image: url('../images/icon-hamburger.svg');
+	background-image: url('./images/icon-hamburger.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 24px;
@@ -149,7 +149,7 @@ a[href] {
 }
 
 .header #menu:checked {
-	background-image: url('../images/icon-close.svg');
+	background-image: url('./images/icon-close.svg');
 }
 
 .header .nav {
@@ -365,7 +365,8 @@ a[href] {
 		background-size: cover;
 	}
 
-	.header #menu {
+	.header #menu,
+	.header .menu-label {
 		display: none;
 	}
 
