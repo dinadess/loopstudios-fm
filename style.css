@@ -152,7 +152,7 @@ a[href] {
 	background-image: url('./images/icon-close.svg');
 }
 
-.header nav {
+.header .nav {
 	display: none;
 	position: absolute;
 	background-color: var(--black);
@@ -168,7 +168,7 @@ a[href] {
 	text-transform: uppercase;
 }
 
-.header #menu:checked + nav {
+.header #menu:checked + .nav {
 	display: flex;
 }
 /* End of Mobile Menu */
@@ -370,7 +370,7 @@ a[href] {
 		display: none;
 	}
 
-	.header nav {
+	.header .nav {
 		display: block;
 		position: initial;
 		background-color: transparent;
